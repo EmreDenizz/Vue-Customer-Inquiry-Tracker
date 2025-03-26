@@ -41,6 +41,3 @@ npm run lint
 - Add status tracking for inquiries
 - Add timestamps for inquiries
 - Add user authentication
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
