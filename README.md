@@ -10,7 +10,7 @@ A Vue.js application for tracking customer inquiries. This application allows yo
 - Responsive design with modern UI
 
 ## Screenshot
-![Customer Inquiry Tracker Screenshot](public/SS.png)
+![Customer Inquiry Tracker Screenshot](public/SS.png){width=600px}
 
 ## Current State
 The application currently stores data in memory. Data will be lost upon page refresh or browser closure.
