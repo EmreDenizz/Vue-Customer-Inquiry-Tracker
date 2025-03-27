@@ -20,14 +20,19 @@ The application currently stores data in memory. Data will be lost upon page ref
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Build Options
+
+### Vue CLI (Default)
 ```
-npm run serve
+npm run serve     # Development
+npm run build     # Production build
 ```
 
-### Compiles and minifies for production
+### Vite (Faster builds)
 ```
-npm run build
+npm run dev:vite    # Development with Vite
+npm run build:vite  # Production build with Vite
+npm run preview     # Preview production build
 ```
 
 ### Lints and fixes files
