@@ -45,4 +45,3 @@ npm run lint
 - Add search and filter functionality
 - Add status tracking for inquiries
 - Add timestamps for inquiries
-- Add user authentication
